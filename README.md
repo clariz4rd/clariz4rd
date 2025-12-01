@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Uninassau.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas.
 ## Minhas Skills
 
 **Aplicações e dados**
