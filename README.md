@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8cc665"/>
 
-<p align="center">
-    <b>システムアナリスト</b>
-</p>
+<br>
+<h3 align="center">システムアナリスト</h3>
+<br>
 
-<div align="center" width="100%">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=d6e685&width=900&size=21&center=true&lines=Olá,+sou+a+Clara" alt="Typing SVG"/>
 </div>
 
@@ -37,10 +37,10 @@
 <div align="center">
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=clariz4rd&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clariz4rd&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clariz4rd&theme=nord_dark&utcOffset=8) |
-| :-: | :-: | :-: |
+
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clariz4rd&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clariz4rd&theme=nord)](https://git.io/streak-stats) |
-| :-: | :-: |
+
   
 </div>
 
